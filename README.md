@@ -1,2 +1,2 @@
-service mail : service_hgyryh5
-template mail : template_5ni7fmu
+service mail : service_aucgbao
+template mail : template_lnjuttp

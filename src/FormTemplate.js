@@ -10,8 +10,8 @@ const FormTemplate = () => {
 
     emailjs
       .sendForm(
-        "service_y4q20km",
-        "template_5ni7fmu",
+        "service_aucgbao",
+        "template_lnjuttp",
         form.current,
         process.env.REACT_APP_ID
       )
